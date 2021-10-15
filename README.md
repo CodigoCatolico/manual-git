@@ -38,3 +38,10 @@ Veja a documentação dos commandos git para ter uma melhor base.
 - https://git-scm.com/docs/git-status/pt_BR
 
 Depois de realizar as suas alterações você pode registrar um pull request para que o código seja integrado ao branch "main".
+
+Alguns videos para ajudar a entender o git.
+
+- https://youtu.be/6Czd1Yetaac
+- https://youtu.be/6OokP-NE49k
+- https://youtu.be/2alg7MQ6_sI
+- https://youtu.be/RGOj5yH7evk
